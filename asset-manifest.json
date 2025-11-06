@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pabbas/static/css/main.fa30b20a.css",
-    "main.js": "/pabbas/static/js/main.23abe67e.js",
+    "main.css": "/pabbas/static/css/main.3e754492.css",
+    "main.js": "/pabbas/static/js/main.5a812328.js",
     "static/js/453.90cb94c0.chunk.js": "/pabbas/static/js/453.90cb94c0.chunk.js",
     "static/media/logo4.jpg": "/pabbas/static/media/logo4.6b9923fceb1f2255ea45.jpg",
     "static/media/logo5.jpg": "/pabbas/static/media/logo5.5842550d5b5b3c480dc1.jpg",
@@ -10,12 +10,12 @@
     "static/media/logo6.jpg": "/pabbas/static/media/logo6.d4851e4e71f154982d32.jpg",
     "static/media/logo3.jpg": "/pabbas/static/media/logo3.043915d06533cb1d6ae0.jpg",
     "index.html": "/pabbas/index.html",
-    "main.fa30b20a.css.map": "/pabbas/static/css/main.fa30b20a.css.map",
-    "main.23abe67e.js.map": "/pabbas/static/js/main.23abe67e.js.map",
+    "main.3e754492.css.map": "/pabbas/static/css/main.3e754492.css.map",
+    "main.5a812328.js.map": "/pabbas/static/js/main.5a812328.js.map",
     "453.90cb94c0.chunk.js.map": "/pabbas/static/js/453.90cb94c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa30b20a.css",
-    "static/js/main.23abe67e.js"
+    "static/css/main.3e754492.css",
+    "static/js/main.5a812328.js"
   ]
 }
